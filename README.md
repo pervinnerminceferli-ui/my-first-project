@@ -30,4 +30,4 @@ Next steps: CSS for styling, JavaScript for interactivity, and Git for version c
 
 ## 📬 Connect
 **GitHub:** [@pervinnerminceferli-ui](https://github.com/pervinnerminceferli-ui)  
-**LinkedIn:** [Add your LinkedIn URL here]
+**LinkedIn:** https://www.linkedin.com/in/parvin-jafarli-46b770382
